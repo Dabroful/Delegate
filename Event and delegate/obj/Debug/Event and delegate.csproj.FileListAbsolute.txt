@@ -1,0 +1,7 @@
+D:\Разработка\C#\Event and delegate\Event and delegate\bin\Debug\Event_and_delegate.exe
+D:\Разработка\C#\Event and delegate\Event and delegate\bin\Debug\Event_and_delegate.pdb
+D:\Разработка\C#\Event and delegate\Event and delegate\obj\Debug\Event and delegate.csproj.AssemblyReference.cache
+D:\Разработка\C#\Event and delegate\Event and delegate\obj\Debug\Event and delegate.csproj.SuggestedBindingRedirects.cache
+D:\Разработка\C#\Event and delegate\Event and delegate\obj\Debug\Event and delegate.csproj.CoreCompileInputs.cache
+D:\Разработка\C#\Event and delegate\Event and delegate\obj\Debug\Event_and_delegate.exe
+D:\Разработка\C#\Event and delegate\Event and delegate\obj\Debug\Event_and_delegate.pdb
